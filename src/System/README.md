@@ -10,8 +10,3 @@
 | long currentTimeMilis() | Mendapatkan waktu saat ini dalam milisecond |
 | long nanoTime() | Mendapatkan waktu saat ini dalam nanosecond |
 | void gc() | Menjalankan Java garbage collection |
-
-- Kode: System Class
-```java
-
-```
