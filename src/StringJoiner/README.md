@@ -8,7 +8,7 @@
 ```java
 String[] names = {"Sandy", "Dwi", "Handoko", "Trapsilo"};
 StringJoiner joiner = new StringJoiner(
-        /*delimiter*/ "||", /*prefix*/ "[", /*suffix*/ "]"
+        /*delimiter*/ ",", /*prefix*/ "[", /*suffix*/ "]"
 );
 
 for (var name : names) {
